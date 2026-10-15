@@ -1,0 +1,22 @@
+{
+    "AC57AFBB69": {
+        "account_no": "AC57AFBB69",
+        "name": "Rakesh",
+        "phone": "7079167459",
+        "account_type": "Savings",
+        "balance": 14900.0,
+        "pin_salt": "56fa7e9ec359a069205df133d04926f5",
+        "pin_hash": "76c372b39f264765f94e86f4087acb4c03d9a3f28bf02f1b46eae6409d7cb54e",
+        "created_at": "2026-10-15T10:19:39+05:30"
+    },
+    "ACCFE86E7D": {
+        "account_no": "ACCFE86E7D",
+        "name": "Amras",
+        "phone": "9999999999",
+        "account_type": "Savings",
+        "balance": 10600.0,
+        "pin_salt": "c311a5ead41a19dda062812485837cab",
+        "pin_hash": "d6a6450334b3f68af1047100fe42768e2a8d458e09b46184e13ae9be4f3efa8b",
+        "created_at": "2026-10-15T10:20:44+05:30"
+    }
+}
